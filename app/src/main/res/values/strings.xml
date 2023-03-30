@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Safe Campus</string>
+
+    <array name="lawsBig">
+
+        <item>
+            When it comes to selecting a self-defense device, it is important to choose one you feel
+            most comfortable carrying. Items such as pepper spray, a safety whistle, and a mini flashlight,
+            are great options to have on hand when going out. Each of these tools can also be easily clipped
+            to a purse or keychain for quick access! This YouTube video from Tech Insider and Gabrielle Rubin of
+            the female awareness.com has a list of self-defense tools you should carry and how to use them.
+        </item>
+        <item>Regardless if you are out alone or with a group of friends,
+            if you ever feel uncomfortable or unsafe with someone’s attention toward you,
+            do not be afraid to put distance between yourself and the individual.
+            There is nothing rude about protecting yourself in a potentially unsafe situation.
+            At the end of the day, always remember to follow your gut!
+        </item>
+        <item>When you are going out, whether it be alone or with a group of friends,
+            it is best to have a plan in place.Knowing your surroundings, such as who and what is in the immediate area, is one of the most
+            crucial safety tips to remember. Making a habit to pay attention to what is going on around you will help you become more aware of your environment. In addition, as an extra level of precaution, let someone outside of your group know your whereabouts and what you have planned for the day/evening.
+        </item>
+        <item>
+            Smartphones are not only a great tool for taking photos, sending messages,
+            and sharing news, but they can also be lifesavers. Most smartphones have a great emergency
+            feature that allows users to ping their location to anyone in their contact list.
+            This feature is easy to setup and will draw attention to the user should they find themselves
+            in an unsafe situation.
+        </item>
+        <item>
+            Turn safety into fun and try a class in self-defense! We never want to think the worst could happen.
+            However, in terms of learning to protect oneself in a potentially dangerous situation,
+            being equipped physically and mentally to handle those scenarios is key.
+        </item>
+        <item>
+            Women carry mobile phones with them at all times, which they can use to call for help in case of an
+            emergency. Many universities have also implemented campus-wide emergency notification systems, which
+            send out alerts via text message or email to students in case of an emergency.
+        </item>
+        <item>
+            Women carry mobile phones with them at all times, which they can use to call for help in case of an
+            emergency. Many universities have also implemented campus-wide emergency notification systems, which
+            send out alerts via text message or email to students in case of an emergency.
+        </item>
+        <item>
+            As much as possible avoid late night travel using public transport.
+            If avoiding is not possible then be sure to travel only on crowded bus. Avoid taking road side cabs.
+            Avoid using a bus which has no passenger or few passenger
+        </item>
+        <item>
+            In case you are in a sticky situation don’t be afraid to use anything in your hand to defend yourself.
+            Use keys, bottle even your purse to inflict damage to your attacker. Use your knees to hit hard between the legs of the attacker. Using your fingers to poke hard in the eyes.Hitting front part of the neck on the Adams apple
+            will leave him in a shock. Punching in the stomach will leave the attacker breathless unable to chase you. Hitting hard in the chest area
+
+        </item>
+        <item>
+            In case you feel you are being stalked or regularly followed, don’t keep it to yourself because what
+            might be on lighter side now might become dangerous if not controlled. Seek help of  Security guards and friends immediately
+        </item>
+    </array>
+</resources>
