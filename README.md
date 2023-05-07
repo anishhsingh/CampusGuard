@@ -11,7 +11,7 @@ campus Safety application for android
 
 <h1> Emergency Call screen </h1><br>
 
-![Call screen](D:\AndroidStudioProjects\safeCampus\images\3.jpeg)<br>
+<img alt="Call screen" src="D:\AndroidStudioProjects\safeCampus\images\3.jpeg"/><br>
 
 <h1> Safety tips screen </h1><br>
 
