@@ -3,7 +3,7 @@ campus Safety application for android
 
 <h1> Main screen </h1><br>
 
-![](images/1.jpeg)
+<img height="550" src="images/1.jpeg" width="450"/>
 <h1> Menu screen </h1><br>
 
 ![](images/2.jpeg)
